@@ -18,15 +18,14 @@
 ### 🧭 Connect
 
 <p align="center">
-  <a href="https://yourwebsite.dev" target="_blank">🌐 Website</a> •
-  <a href="https://linkedin.com/in/yourhandle" target="_blank">🔗 LinkedIn</a>
-</p>
-<p>
   <a href="https://github.com/stupidstiff" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a> •
-  <a href="https://github.com/stupidstiff" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=flat&logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white" style="margin: 0 10px;" />
+  </a>
+  <a href="https://duckduckgo.com" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 10px;" />
+  </a>
+  <a href="https://ecosia.org" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/website-1f1f1f?style=for-the-badge&logo=firefox&logoColor=white" style="margin: 0 10px;" />
   </a>
 </p>
 
