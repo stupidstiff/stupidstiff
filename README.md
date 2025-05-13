@@ -17,6 +17,10 @@
 
 ### 🧭 Connect
 
+<p align="center">
+  <a href="https://yourwebsite.dev" target="_blank">🌐 Website</a> •
+  <a href="https://linkedin.com/in/yourhandle" target="_blank">🔗 LinkedIn</a>
+</p>
 <p>
   <a href="https://github.com/stupidstiff" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />
