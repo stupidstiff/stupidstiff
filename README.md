@@ -21,7 +21,7 @@
   <a href="github.com/stupidstiff" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://deinwebsite.de" target="_blank">
+  <a href="github.com/stupidstiff" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/website-000000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
